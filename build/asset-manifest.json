@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vijay-portfolio/static/css/main.6192e3b2.css",
+    "main.js": "/vijay-portfolio/static/js/main.35b051cc.js",
+    "static/media/green-quest.jpg": "/vijay-portfolio/static/media/green-quest.9bf1a283171b87fdc8f4.jpg",
+    "static/media/profile.jpeg": "/vijay-portfolio/static/media/profile.a93c0bd820cecb4f3371.jpeg",
+    "static/media/ai-for-all.jpg": "/vijay-portfolio/static/media/ai-for-all.62d50e88c1199c1aeb5a.jpg",
+    "static/media/photo3.jpeg": "/vijay-portfolio/static/media/photo3.419af37875b54a1bde38.jpeg",
+    "static/media/photo4.jpeg": "/vijay-portfolio/static/media/photo4.98c339cde14811c1c3d1.jpeg",
+    "static/media/ace-project.jpg": "/vijay-portfolio/static/media/ace-project.b64dfe3b933526792d6a.jpg",
+    "static/media/photo2.jpeg": "/vijay-portfolio/static/media/photo2.4eadeb1b1612bdeba9bb.jpeg",
+    "static/media/photo1.jpeg": "/vijay-portfolio/static/media/photo1.fafd4c82bd963e238a3d.jpeg",
+    "index.html": "/vijay-portfolio/index.html",
+    "main.6192e3b2.css.map": "/vijay-portfolio/static/css/main.6192e3b2.css.map",
+    "main.35b051cc.js.map": "/vijay-portfolio/static/js/main.35b051cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6192e3b2.css",
+    "static/js/main.35b051cc.js"
+  ]
+}

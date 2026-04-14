@@ -1,16 +1,16 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Portfolio from './pages/Portfolio';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<Portfolio />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
