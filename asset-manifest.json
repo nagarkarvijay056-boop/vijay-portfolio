@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vijay-portfolio/static/css/main.6192e3b2.css",
-    "main.js": "/vijay-portfolio/static/js/main.35b051cc.js",
+    "main.js": "/vijay-portfolio/static/js/main.421bde57.js",
     "static/media/green-quest.jpg": "/vijay-portfolio/static/media/green-quest.9bf1a283171b87fdc8f4.jpg",
     "static/media/profile.jpeg": "/vijay-portfolio/static/media/profile.a93c0bd820cecb4f3371.jpeg",
     "static/media/ai-for-all.jpg": "/vijay-portfolio/static/media/ai-for-all.62d50e88c1199c1aeb5a.jpg",
@@ -12,10 +12,10 @@
     "static/media/photo1.jpeg": "/vijay-portfolio/static/media/photo1.fafd4c82bd963e238a3d.jpeg",
     "index.html": "/vijay-portfolio/index.html",
     "main.6192e3b2.css.map": "/vijay-portfolio/static/css/main.6192e3b2.css.map",
-    "main.35b051cc.js.map": "/vijay-portfolio/static/js/main.35b051cc.js.map"
+    "main.421bde57.js.map": "/vijay-portfolio/static/js/main.421bde57.js.map"
   },
   "entrypoints": [
     "static/css/main.6192e3b2.css",
-    "static/js/main.35b051cc.js"
+    "static/js/main.421bde57.js"
   ]
 }
